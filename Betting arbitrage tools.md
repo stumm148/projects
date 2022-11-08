@@ -1,4 +1,4 @@
-Scanning odds on the sports exchange and other betting sites for comparison and betting surebets.
+#### Scanning odds on the sports exchange and other betting sites for comparison and betting surebets.
 
 ### Technologies:
  * VB.NET
