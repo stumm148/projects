@@ -6,7 +6,7 @@ Scanning odds on the sports exchange and other betting sites for comparison and 
  
  ### Application features:
  * Betfair.com odds through API
- * Bet365.com, Sportingbets.com, WilliamHill.com, Ladbrokes.com, 888sport.com odds scraper
+ * Bet365.com, Sportingbets.com, WilliamHill.com, Ladbrokes.com, 888sport.com odds scrapers
  * Fast odds scanning
  * Proffesional arbs calculator
  * Fast betting on sports exchange
