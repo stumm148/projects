@@ -1,6 +1,4 @@
-## Betfair trading software
-
-Trading and betting tools for the Betfair.com sports exchange.
+#### Trading and betting tools for the Betfair.com sports exchange.
 
 ### Technologies:
  * VB.NET 
