@@ -1,0 +1,19 @@
+#### Soccer information website. 
+
+
+### Technologies:
+ * Python
+ * Linux
+ * Flask
+ * Scrapy
+ * Sqlite3
+ * Socket.IO
+ * Selenium (late version)
+ 
+### Application features:
+ * Sofascore.com scraper
+ * Flask admin panel
+ * Websocket implementation allows data to be changed on a website without refreshing the page
+ * New user approval features
+ * Historical data
+ * Data filter rules for different soccer leagues can be easily changed.
