@@ -1,4 +1,4 @@
-#### Multi-account manager for managing multiple AWS accounts and scripts.
+#### Multi-account manager for managing multiple AWS servers and scripts.
 
 ### Technologies:
  * Python
