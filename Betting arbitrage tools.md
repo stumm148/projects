@@ -8,7 +8,7 @@
  * Betfair.com odds through API
  * Bet365.com, Sportingbets.com, WilliamHill.com, Ladbrokes.com, 888sport.com odds scrapers
  * Fast odds scanning
- * Proffesional arbs calculator
+ * Innovative arbs calculator
  * Fast betting on sports exchange
  * Horse place arbs calculator
 
