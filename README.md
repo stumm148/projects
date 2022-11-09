@@ -7,3 +7,4 @@
 * [6 million page scraper](https://github.com/stumm148/projects/blob/main/6%20million%20page%20scraper.md) - created in 2016
 * [Soccer stats website](https://github.com/stumm148/projects/blob/main/Soccer%20stats%20website.md) - created in 2017
 * [iOS app](https://github.com/stumm148/projects/blob/main/ios%20app.md) - created in 2018
+* [Even more scrapers](https://github.com/stumm148/projects/blob/main/Even%20more%20scrapers.md) - created in 2019
