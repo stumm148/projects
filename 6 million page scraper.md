@@ -1,4 +1,4 @@
-#### [Gelbeseiten.de scraper](https://bitbucket.org/putalas/gelbeseiten_grab_data/src/master/)
+#### [Gelbeseiten.de scraper source](https://bitbucket.org/putalas/gelbeseiten_grab_data/src/master/)
 #### Two-part scraper. First retrieve companies id. The second grab companies addresses, email and other info.
 
 
