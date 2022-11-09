@@ -10,8 +10,9 @@
  * Bookmark favorite events
 
 
- ![macos app](https://user-images.githubusercontent.com/8201223/200888803-b6190dbf-72c4-45a2-b8d0-eabee6d48204.jpg)
- ![macos app2](https://user-images.githubusercontent.com/8201223/200889115-3532fe29-b35b-47a2-a8f1-094003cac8bb.JPG)
+![iOS app1](https://user-images.githubusercontent.com/8201223/200890875-7dabc451-b308-4a18-a18b-650e69f629d0.jpg)
+![iOS app2](https://user-images.githubusercontent.com/8201223/200890900-3e822f48-82f8-4fc0-8990-cd764fa770b2.JPG)
+
 
  
 
