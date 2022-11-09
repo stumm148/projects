@@ -5,6 +5,7 @@
  * Python
  * Javascript
  * Linux
+ * AWS
  * Flask
  * Scrapy
  * Sqlite3
