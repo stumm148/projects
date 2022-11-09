@@ -5,6 +5,7 @@
  * Scrapy
  * Selenium
  * Linux
+ * Proxy
 
 
 #### Soccerway.com scraper for lineuptoday.com service
