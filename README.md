@@ -8,3 +8,4 @@
 * [Soccer stats website](https://github.com/stumm148/projects/blob/main/Soccer%20stats%20website.md) - created in 2017
 * [iOS app](https://github.com/stumm148/projects/blob/main/ios%20app.md) - created in 2018
 * [Even more scrapers](https://github.com/stumm148/projects/blob/main/Even%20more%20scrapers.md) - created in 2019
+* [AWS tasks manager](https://github.com/stumm148/projects/blob/main/AWS%20tasks%20manager.md) - created in 2020
