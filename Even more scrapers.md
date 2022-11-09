@@ -1,6 +1,7 @@
 ### Technologies:
  * Python
  * PyQt
+ * MysqlDb
  * Scrapy
  * Selenium
  * Linux
