@@ -14,6 +14,6 @@
  * Sofascore.com scraper
  * Flask admin panel
  * Websocket implementation allows data to be changed on a website without refreshing the page
- * New user approval features
+ * New users email approval features
  * Historical data
  * Data filter rules for different soccer leagues can be easily changed.
