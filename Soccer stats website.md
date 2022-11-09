@@ -3,6 +3,7 @@
 
 ### Technologies:
  * Python
+ * Javascript
  * Linux
  * Flask
  * Scrapy
